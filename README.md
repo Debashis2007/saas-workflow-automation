@@ -75,3 +75,10 @@ curl -s http://127.0.0.1:8000/health | jq
 ```
 
 curl -s -X POST http://127.0.0.1:8000/tools/email.send -H 'Content-Type: application/json' -d '{"to":"a@b.com","body":"hi","approved":false}' | jq
+
+---
+
+**Copyright (c) 2026 Debashis Bhattacharjee. All Rights Reserved.**  
+Unauthorized copying or redistribution of this material is prohibited.  
+GitHub: [Debashis2007](https://github.com/Debashis2007)
+
