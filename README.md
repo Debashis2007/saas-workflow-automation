@@ -1,5 +1,7 @@
 # Use Case: SaaS Workflow Automation
 
+**YouTube walkthrough:** [Saas Workflow Automation — System Design #Shorts](https://youtu.be/GI3LPaCVsTE)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse policy engine + connector token pattern from **07**.
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Saas Workflow Automation — System Design #Shorts](https://youtu.be/GI3LPaCVsTE)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
